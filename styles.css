@@ -1,0 +1,9 @@
+h1 {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
